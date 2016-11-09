@@ -1,2 +1,2 @@
 # d3fy-react-forms
-A set of react components that generates easily style-able form elements 
+A set of React components to generate form elements that are easily styleable
